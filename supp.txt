@@ -1,1 +1,1 @@
-" suppression"
+FONCTIONNALITES DE SUPPRESSION
